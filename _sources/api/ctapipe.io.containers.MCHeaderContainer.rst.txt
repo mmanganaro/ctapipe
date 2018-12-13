@@ -1,0 +1,43 @@
+MCHeaderContainer
+=================
+
+.. currentmodule:: ctapipe.io.containers
+
+.. autoclass:: MCHeaderContainer
+   :show-inheritance:
+
+   .. rubric:: Attributes Summary
+
+   .. autosummary::
+
+      ~MCHeaderContainer.corsika_version
+      ~MCHeaderContainer.energy_range_max
+      ~MCHeaderContainer.energy_range_min
+      ~MCHeaderContainer.meta
+      ~MCHeaderContainer.prod_site_B_declination
+      ~MCHeaderContainer.prod_site_B_inclination
+      ~MCHeaderContainer.prod_site_B_total
+      ~MCHeaderContainer.prod_site_alt
+      ~MCHeaderContainer.prod_site_array
+      ~MCHeaderContainer.prod_site_coord
+      ~MCHeaderContainer.prod_site_subarray
+      ~MCHeaderContainer.run_array_direction
+      ~MCHeaderContainer.simtel_version
+      ~MCHeaderContainer.spectral_index
+
+   .. rubric:: Attributes Documentation
+
+   .. autoattribute:: corsika_version
+   .. autoattribute:: energy_range_max
+   .. autoattribute:: energy_range_min
+   .. autoattribute:: meta
+   .. autoattribute:: prod_site_B_declination
+   .. autoattribute:: prod_site_B_inclination
+   .. autoattribute:: prod_site_B_total
+   .. autoattribute:: prod_site_alt
+   .. autoattribute:: prod_site_array
+   .. autoattribute:: prod_site_coord
+   .. autoattribute:: prod_site_subarray
+   .. autoattribute:: run_array_direction
+   .. autoattribute:: simtel_version
+   .. autoattribute:: spectral_index
